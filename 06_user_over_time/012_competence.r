@@ -9,7 +9,7 @@ library("difR")
 library("readxl")
 
 # import and preprocess
-data <- read.csv(file='12_auswertung_experiment/07_user_over_time/learning_data1.csv')
+data <- read.csv(file='05_experiment_results/06_user_over_time/learning_data_period_2.csv')
 
 print('read')
 #print(summary(data))
