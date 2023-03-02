@@ -3,3 +3,6 @@
 *.png
 *.xlsx
 /00_data
+/09_fehlerquotient
+/01_cleaning
+/02_featureEngineering
