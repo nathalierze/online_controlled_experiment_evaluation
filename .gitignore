@@ -2,10 +2,9 @@
 *.csv
 *.png
 *.xlsx
-*.txt
 *.cqc
-/00_data
-/09_fehlerquotient
-01_cleaning/
-/02_featureEngineering
-/00_metadata
+00_metadata
+00_data
+01_cleaning
+09_fehlerquotient
+02_featureEngineering/conquest_output.txt
