@@ -5,6 +5,6 @@
 *.cqc
 00_metadata
 00_data
-01_cleaning
+01_clean
 09_fehlerquotient
 02_featureEngineering/conquest_output.txt
